@@ -1,9 +1,9 @@
 .DS_Store
 .dart_tool/
-
+**pubspec.lock
 .packages
 .pub/
-
+**.idea/
 build/
 ios/.generated/
 ios/Flutter/Generated.xcconfig
